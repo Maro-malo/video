@@ -1,6 +1,1 @@
-~ $ git clone httos://github.com/maromalo/maromalo.github.io
-~ $ cd maromalo.github.io
-~ $ echo "hello World" > index.html
-~ $ git add --all
-~ $ git commit -m "Initial commit"
-~ $ git push -u origin main
+
